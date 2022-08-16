@@ -1,4 +1,7 @@
 {
+  "name": "wizard",
+  "description": "The wizard is a powerful spellcaster. He can cast spells that deal damage to his enemies.",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next",
@@ -8,6 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@changesets/cli": "^2.24.3",
     "@reduxjs/toolkit": "^1.3.6",
     "next": "latest",
     "react": "^18.1.0",
