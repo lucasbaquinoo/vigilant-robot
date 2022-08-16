@@ -15,7 +15,7 @@ const IndexPage: NextPage = () => {
         <img src="/logo.svg" className={styles.logo} alt="logo" />
         <Counter />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>src/pages/_app.tsx</code> and save to reload.
         </p>
       </header>
     </div>
